@@ -1,2 +1,2 @@
-# WebHolic_quiz-pop
-This is a hackathon project on quiz.
+# QuizWebApplication 
+This is a a responsive quiz web application using HTML, CSS and JS by the team WebHolic.
